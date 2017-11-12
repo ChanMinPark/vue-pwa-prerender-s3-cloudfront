@@ -1,6 +1,6 @@
-# vue-prerender-pwa
+# vue-pwa-prerender-s3-cloudfront
 
-> A Vue.js with PWA project of ChanMin Park.
+> AWS S3 + CloudFront 조합에서 웹호스팅할 수 있는 Vue.js + PWA + Pre render 조합의 웹앱의 기반을 잡은 프로젝트입니다.  
 
 ## Build Setup
 
